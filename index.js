@@ -5,8 +5,8 @@ const addBtn = document.querySelector('.add');
 const todaysDate = document.querySelector('.date');
 const cont = document.querySelector('.container');
 const now = DateTime.now();
-
-todaysDate.innerHTML = now;
+const currentDate = now.toLocaleString(DateTime.DATETIME_MED_WITH_WEEKDAY);
+todaysDate.innerHTML = currentDate;
 
 render();
 

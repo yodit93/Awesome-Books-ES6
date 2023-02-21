@@ -1,8 +1,8 @@
-import { books, Books, getBook } from './books.js';
+import { Books, getBook } from './books.js';
 
 const adminUser = new Books();
 
-function render() {
+const render = () => {
   const library = getBook();
   const cont = document.querySelector('.container');
   cont.innerHTML = '';
@@ -22,6 +22,6 @@ function render() {
       render();
     });
   });
-}
+};
 
 export { adminUser, render };
