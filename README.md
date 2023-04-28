@@ -50,7 +50,7 @@
 
 > Link to deployed project.
 
-- [Live Demo Link](<a href="">Live Demo</a>)
+- [Live Demo Link](<a href=" https://yodit93.github.io/Awesome-Books-ES6/">Live Demo</a>)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
