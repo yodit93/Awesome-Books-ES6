@@ -50,7 +50,7 @@
 
 > Link to deployed project.
 
-- [Live Demo Link](https://yodit93.github.io/Awesome-Books-ES6/)
+- [Live Demo Link](https://awesome-books-es-6-five.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
